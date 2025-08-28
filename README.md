@@ -1,4 +1,4 @@
-# ripping
+# dvd-ripping
 
 ### Debian
 
